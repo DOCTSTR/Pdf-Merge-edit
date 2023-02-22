@@ -6,4 +6,3 @@ pdfreader==0.1.12
 streamlit==1.17.0
 tabula==1.0.5
 tabula_py==2.6.0
-frontend
